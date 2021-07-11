@@ -628,4 +628,27 @@ a {
 		margin: 1.5%;
 	}
 }
+/* style a link color*/
+<style>
+a:link {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
 /* End  Media Query For Desktop */
